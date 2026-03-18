@@ -2,7 +2,6 @@
 - 👀 I’m interested in Music, Business and Technology
 - 🌱 I’m currently learning Python, HTML/CSS, and Linux
 - 💞️ I’m looking to collaborate on Video Game Dev Projects, Coding, Modding
-- 📫 How to reach me email: b2470017@gmail.com for inquires
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
