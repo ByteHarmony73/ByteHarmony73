@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ByteHarmony73 you can call me Bobby! 
-- 👀 I’m interested in Music, Business and Technology
+- 👀 I’m interested in Technology Hardware, Coding, Modding etc.
 - 🌱 I’m currently learning Python, HTML/CSS, and Linux
 - 💞️ I’m looking to collaborate on Video Game Dev Projects, Coding, Modding
 - 😄 Pronouns: He/Him
